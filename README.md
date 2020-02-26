@@ -6,7 +6,7 @@ I had trouble understanding the roles that constructors played within javascript
 
 ## How Did I Over Come Those Challenges? 
 
-Doing research on platforms like Google,YouTube, MDN docs, stackoverflow, GitHub, online courses, and using reference guides. I was able to do more research on constructors and the roles they played with in JavaScript. I was also able to get a better understanding of the types of data the Java script can manipulate.
+By doing research on platforms like Google,YouTube, MDN docs, stackoverflow, GitHub, online courses, and using reference guides. I was able to do more research on constructors and the roles they played with in JavaScript. I was also able to get a better understanding of the types of data the Java script can manipulate.
 
 ## What Did I Learn? 
 
